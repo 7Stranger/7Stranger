@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @7Stranger! My name is Stanislav Moisieiev. I,m 29 y.o.
+- 👋 Hi, I’m @7Stranger! My name is Stanislav Moisieiev. I,m 30 y.o.
 - 👀 I’m interested in web design and development.
 - 🌱 I’m currently learning JavaScript, Vue.js, HTML, CSS, Bootstrap.
 
